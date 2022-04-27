@@ -147,7 +147,7 @@ main ol a {
 main p a:hover,
 main ul a:hover,
 main ol a:hover {
-    color: white;
+    color: #181818;
 }
 main p a:before,
 main ul a:before,
@@ -166,13 +166,13 @@ main ol a:before {
 main p a:hover:before,
 main ul a:hover:before,
 main ol a:hover:before {
-    background: #181818;
+    background: white;
 }
 main a.footnote-ref:before {
     content: none !important;
 }
 main a.footnote-ref:hover {
-    color: black !important;
+    color: white !important;
     text-decoration: underline;
 }
 
@@ -275,11 +275,11 @@ figure figcaption {
 
 /* styles */
 body {
-    color: black;
-    background: rgba(239, 239, 239, 0.5);
+    color: white;
+    background: #333;
 }
 a {
-    color: black;
+    color: white;
 }
 a.blogging-tag {
     font-size: 0.75rem;
@@ -328,8 +328,8 @@ ul.nav-h li a {
     position: relative;
     top: 0;
     display: inline-block;
-    background: black;
-    color: white;
+    background: white;
+    color: #181818;
     padding: 1px 15px;
     border-radius: 20px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.125);
@@ -337,7 +337,7 @@ ul.nav-h li a {
     text-decoration: none;
 }
 ul.nav-h a:hover {
-    color: white;
+    color: #181818;
     top: -2px;
     box-shadow: 0 12px 25px rgba(0, 0, 0, 0.075);
     text-decoration: none;
