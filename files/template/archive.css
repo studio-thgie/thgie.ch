@@ -155,7 +155,7 @@ main ol a:before {
     content: '';
     width: calc(100% + 30px);
     height: 100%;
-    border: 1px solid #181818;
+    border: 1px solid white;
     position: absolute;
     left: -15px;
     top: 0;
