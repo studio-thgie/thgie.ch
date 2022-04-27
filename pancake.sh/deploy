@@ -1,0 +1,29 @@
+#!/bin/sh
+# clean up old deployment
+cd ..
+
+# adjust these
+OUTPUT_DIR="/var/www/thgie.ch/"
+TEMPLATE_FILE="./files/template/main.html"
+
+# No editing beyond this comment
+INPUT_DIR="$(pwd)/"
+
+rm -rfv "$OUTPUT_DIR"
+mkdir -p "$OUTPUT_DIR"
+
+find . -name "*.md" | while read file ; do
+	
+	# prepare input file string
+	INPUT_FILE=${file#*/}
+
+	# prepare relative output file path w/o extension
+	OUTPUT_RELATIVE=${file%.*}
+	OUTPUT_RELATIVE=${OUTPUT_RELATIVE#*/}
+
+	# render the file
+	. ./pancake.sh/render
+done
+
+# sync files and prepare images for hosting 
+. ./pancake.sh/post-render

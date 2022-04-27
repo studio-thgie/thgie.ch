@@ -1,0 +1,10 @@
+---
+title: Der Fetischcharakter der Ware und sein Geheimnis
+---
+# Der Fetischcharakter der Ware und sein Geheimnis
+
+> Es ist nur das bestimmte gesellschaftliche Verhältnis der Menschen selbst, welches hier für sie die phantasmagorische Form eines Verhältnisses von Dingen annimmt. Um daher eine Analogie zu finden, müssen wir in die Nebelregion der religiösen Welt flüchten. Hier scheinen die Produkte des menschlichen Kopfes mit eignem Leben begabte, untereinander und mit den Menschen in Verhältnis stehende selbständige Gestalten. So in der Warenwelt die Produkte der menschlichen Hand. Dies[86] nenne ich den Fetischismus, der den Arbeitsprodukten anklebt, sobald sie als Waren produziert werden, und der daher von der Warenproduktion unzertrennlich ist.
+
+> Die Gleichheit toto coelo verschiedner Arbeiten kann nur in einer Abstraktion von ihrer wirklichen Ungleichheit bestehn, in der Reduktion auf den[87] gemeinsamen Charakter, den sie als Verausgabung menschlicher Arbeitskraft, abstrakt menschliche Arbeit, besitzen. Das Gehirn der Privatproduzenten spiegelt diesen doppelten gesellschaftlichen Charakter ihrer Privatarbeiten nur wider in den Formen, welche im praktischen Verkehr, im Produktenaustausch erscheinen – den gesellschaftlich nützlichen Charakter ihrer Privatarbeiten also in der Form, daß das Arbeitsprodukt nützlich sein muß, und zwar für andre – den gesellschaftlichen Charakter der Gleichheit der verschiedenartigen Arbeiten in der Form des gemeinsamen Wertcharakters dieser materiell verschiednen Dinge, der Arbeitsprodukte.
+
+Im Kern dieser Aussagen, dieses Kapitels beschreibt Marx, wie die Entfremdung eigentlich schon bei der Produktion eingeschrieben wird. Durch den Zwang ein Ding für andere produzieren zu müssen, dem Warenwert zu liebe (zur Erhaltung der eigenen Existenz durch die Schaffung von Wert für sich selbst), abstrahiert der Produzent das Ding aus seiner Beziehungsfähigkeit heraus.

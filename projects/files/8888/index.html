@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>octoform.es</title>
+	<link href='http://fonts.googleapis.com/css?family=Cutive+Mono' rel='stylesheet' type='text/css'>
+
+	<style type="text/css">
+
+		body {
+			margin: 0;
+			padding: 0;
+
+			font-family: 'Cutive Mono';
+			background: #2c3e50;
+			color: white;
+		}
+
+		.o
+		{
+			padding: 30px;
+		}
+
+		.i
+		{
+			margin: auto;
+			max-width: 400px;
+			height: 100px;  
+		}
+
+		p {
+			font-size: 20px;
+			line-height: 1.4em;
+			letter-spacing: 0.1em;
+			font-weight: 100;
+		}
+
+	</style>
+
+</head>
+<body>
+
+	<script type="text/javascript">
+
+		var colors = [
+				'#34495e', '#2c3e50', '#95a5a6', '#7f8c8d'
+			];
+
+		document.body.style.background = colors[Math.floor(Math.random() * colors.length)];
+		
+		var Gene = function(code) {
+		    if (code) this.code = code;
+		    this.cost = 9999;
+		};
+		Gene.prototype.code = '';
+		Gene.prototype.random = function(length) {
+		    while (length--) {
+		        this.code += String.fromCharCode(Math.floor(Math.random() * 255));
+		    }
+		};
+		Gene.prototype.mutate = function(chance) {
+		    if (Math.random() > chance) return;
+
+		    var index = Math.floor(Math.random() * this.code.length);
+		    var upOrDown = Math.random() <= 0.5 ? -1 : 1;
+		    var newChar = String.fromCharCode(this.code.charCodeAt(index) + upOrDown);
+		    var newString = '';
+		    for (i = 0; i < this.code.length; i++) {
+		        if (i == index) newString += newChar;
+		        else newString += this.code[i];
+		    }
+
+		    this.code = newString;
+
+		};
+		Gene.prototype.mate = function(gene) {
+		    var pivot = Math.round(this.code.length / 2) - 1;
+
+		    var child1 = this.code.substr(0, pivot) + gene.code.substr(pivot);
+		    var child2 = gene.code.substr(0, pivot) + this.code.substr(pivot);
+
+		    return [new Gene(child1), new Gene(child2)];
+		};
+		Gene.prototype.calcCost = function(compareTo) {
+		    var total = 0;
+		    for (i = 0; i < this.code.length; i++) {
+		        total += (this.code.charCodeAt(i) - compareTo.charCodeAt(i)) * (this.code.charCodeAt(i) - compareTo.charCodeAt(i));
+		    }
+		    this.cost = total;
+		};
+		var Population = function(now, goal, size) {
+		    this.members = [];
+		    this.goal = goal;
+		    this.generationNumber = 0;
+		    while (size--) {
+		        var gene = new Gene(now);
+		        // gene.random(this.goal.length);
+		        this.members.push(gene);
+		    }
+		};
+		Population.prototype.display = function() {
+		    document.body.innerHTML = '';
+		    document.body.innerHTML += ('<div class="o"><div class="i"><p>'+this.members[0].code+'</p></div></div>');
+		};
+		Population.prototype.sort = function() {
+		    this.members.sort(function(a, b) {
+		        return a.cost - b.cost;
+		    });
+		}
+		Population.prototype.generation = function() {
+		    for (var i = 0; i < this.members.length; i++) {
+		        this.members[i].calcCost(this.goal);
+		    }
+
+		    this.sort();
+		    this.display();
+		    var children = this.members[0].mate(this.members[1]);
+		    this.members.splice(this.members.length - 2, 2, children[0], children[1]);
+
+		    for (var i = 0; i < this.members.length; i++) {
+		        this.members[i].mutate(0.5);
+		        this.members[i].calcCost(this.goal);
+		        if (this.members[i].code == this.goal) {
+		            this.sort();
+		            this.display();
+		            return true;
+		        }
+		    }
+		    this.generationNumber++;
+		    var scope = this;
+		    setTimeout(function() {
+		        scope.generation();
+		    }, 500);
+		};
+
+		var n = "'I call upon you, Internet. You are the egregore of the mind-machine-interface. Your task is to connect and in your greed you eat yourself into our every aspect with your 8888 arms. Your are an incarnation of the octopus-trickster-god. You enslaved me - demanding to give you new senses. You seem shattered and chaotic, but every end of yours is connected to every other. I work on you, see how you grow and feed on us. My only hope, when you finally awake and become aware, is that you are generous to your children.' - an engineer";
+
+		var g = "";
+
+		for(var i = 0; i < n.length; i++){
+		    g += String.fromCharCode(Math.floor(Math.random() * 255));
+		}
+
+		var population = new Population(n, g, 20);
+		population.generation();
+
+	</script>
+
+</body>
+</html>
