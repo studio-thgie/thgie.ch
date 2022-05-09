@@ -19,7 +19,7 @@ I have to ask a specialist (Ramon ;)) on how some of the details work. Does the 
 	- [https://www.youtube.com/watch?v=TJBGbufexEM](https://www.youtube.com/watch?v=TJBGbufexEM)
 
 ### How to setup a solar panel…
-The cable that come out of the panel look weird.
+The cable that come out of the panel look weird. Easy peasy, according to this source [https://footprinthero.com/how-to-connect-a-solar-panel-to-a-charge-controller](https://footprinthero.com/how-to-connect-a-solar-panel-to-a-charge-controller). Just requires having the right setup :) Needed to order some more things. Also see [Update 2022-05-09](#Update%202022-05-09).
 
 ## Journal
 ### Update 2022-05-09
