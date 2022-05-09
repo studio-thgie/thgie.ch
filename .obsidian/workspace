@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ac08c10f915cdfaa",
+        "id": "3476db3d7b889c85",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects.md",
+            "file": "notes/Solar Sensitivities.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70fd0428f89fdffe",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects.md",
+                "file": "notes/Solar Sensitivities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +88,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac08c10f915cdfaa",
+  "active": "3476db3d7b889c85",
   "lastOpenFiles": [
+    "notes/Solar Sensitivities.md",
+    "now.md",
+    "notes/uxn.md",
+    "reading/@tischbergerWIEWIRCODEN2021.md",
+    "notes/Jachere Deployment and Publishing.md",
     "projects.md",
     "projects/index.md",
     "README.md",

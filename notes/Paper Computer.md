@@ -2,7 +2,7 @@
 title: Paper Computer
 ---
 # Paper Computer
-I'm super fascinated by paper computers. These are a paper based tool to teach the basics of computing. I came acress them somewhere on a Mastodon instance and I liked it because they are quite close to assembler programming, whereas assembler has some more options. At least in the case of [[uxn]].
+I'm super fascinated by paper computers. These are a paper based tool to teach the basics of computing. I came acress them somewhere on a Mastodon instance and I liked it because they are quite close to assembler programming, whereas assembler has some more options. At least in the case of [[notes/uxn]].
 
 I watched the following two videos by Chris Staecker.
 

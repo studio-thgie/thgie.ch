@@ -39,7 +39,7 @@ Mentiones that there isn't a one-size-fit all solution within the permacomputing
 
 [[Forth]] is mentioned, once more… Need to research that.
 
-One way to think about complexity is to keep it human-graspable. If one person can rewrite everything from scratch, that would a good thing. This also lends itself to a type of village hacker, that is super-localised and adapts stuff to the local circumstances. [[uxn]] is mentioned as a an example of a pocket of simplicity.
+One way to think about complexity is to keep it human-graspable. If one person can rewrite everything from scratch, that would a good thing. This also lends itself to a type of village hacker, that is super-localised and adapts stuff to the local circumstances. [[notes/uxn]] is mentioned as a an example of a pocket of simplicity.
 
 > Ideally, UIs should reflect, amplify and illustrate the underlying elegance instead of trying to hide or misrepresent the inner workings.
 

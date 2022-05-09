@@ -9,6 +9,7 @@ This is the original inspirational document by low-tech magazine: [How to build 
 
 *How much power does a raspi w/o desktop need?*
 
+### Research on Raspberry Pi and Batteries
 So it seems a [raspi 4 needs between 2.7 to 3.4 W](https://www.pidramble.com/wiki/benchmarks/power-consumption). [Core electronics has a good primer](https://core-electronics.com.au/tutorials/solar-powered-pi.html#Size) on how much energy is needed and how much is produced. The biggest PiJuice solar panel produces 44W, whereas the low-tech magazine setup has a 50 Wp (?) panel.
 
 I have to ask a specialist (Ramon ;)) on how some of the details work. Does the solar panel charge battery pack and server at the same time? Did I get all of the watt[^2], watt-hour, ampere things right? 
@@ -16,6 +17,18 @@ I have to ask a specialist (Ramon ;)) on how some of the details work. Does the 
 - Batterypower and solarpanel calculations
 	- [https://www.youtube.com/watch?v=lPyDtuzYE5s](https://www.youtube.com/watch?v=lPyDtuzYE5s)
 	- [https://www.youtube.com/watch?v=TJBGbufexEM](https://www.youtube.com/watch?v=TJBGbufexEM)
+
+### How to setup a solar panel…
+The cable that come out of the panel look weird.
+
+## Journal
+### Update 2022-05-09
+I bought myself a large panel (110W) and an easy MPPT. That is a little thing that stabilises the energy that comes out of the panel. Because the sun-shine fluctuates, and with it the energy-current, it can be problematic for the things you attach to the panel. This particular MPPT by revolt[^3] also has USB outlets, which is nice. If it produces to much power, maybe we can even charge some other devices.
+
+I do need to learn how to set up the panel now, and if I miss anything… Oook I was missing a few things.
+
+- an MPPT should not be setup without a battery hooked up to it. That could damage the MPPT. So I had to order a battery as well
+- The cables that came out of the solar panel are the MC4 type. I did order proper cables into the MPPT, but they lack the MC4 adapters on the other end, so I had to order that as well.
 
 ## Foundation
 - [How to Build a Low-tech Website?](reading/@HowBuildLowtech2018.md)
@@ -31,3 +44,4 @@ I have to ask a specialist (Ramon ;)) on how some of the details work. Does the 
 
 [^1]: Will the title hold? We will see. But it's poetic, and I like it. I could spin a whole theme around it.
 [^2]: https://www.electricityforum.com/what-is-a-watt
+[^3]: https://www.revolt-power.de/Digital-Solar-Laderegler-20A-12V-24V-Auto-Switch--NX-6816-919.shtml
