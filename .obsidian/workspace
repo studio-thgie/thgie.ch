@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3476db3d7b889c85",
+        "id": "576b8c12215e4136",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Solar Sensitivities.md",
+            "file": "projects/projects/Photo Archives VIII.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "70fd0428f89fdffe",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Solar Sensitivities.md",
+                "file": "projects/projects/Photo Archives VIII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3476db3d7b889c85",
+  "active": "576b8c12215e4136",
   "lastOpenFiles": [
+    "projects/projects/Photo Archives VIII.md",
     "notes/Solar Sensitivities.md",
     "now.md",
     "notes/uxn.md",
