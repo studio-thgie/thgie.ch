@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "576b8c12215e4136",
+        "id": "9f6fed8803aff791",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects/projects/Photo Archives VIII.md",
+            "file": "journal/2022-05-20.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/projects/Photo Archives VIII.md",
+                "file": "journal/2022-05-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "576b8c12215e4136",
+  "active": "9f6fed8803aff791",
   "lastOpenFiles": [
+    "journal/2022-05-20.md",
+    "journal/2022-02-21.md",
     "projects/projects/Photo Archives VIII.md",
     "notes/Solar Sensitivities.md",
     "now.md",
@@ -96,8 +98,6 @@
     "reading/@tischbergerWIEWIRCODEN2021.md",
     "notes/Jachere Deployment and Publishing.md",
     "projects.md",
-    "projects/index.md",
-    "README.md",
-    "index.md"
+    "projects/index.md"
   ]
 }
