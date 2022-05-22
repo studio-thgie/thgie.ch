@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-05-20.md",
+            "file": "journal.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-05-20.md",
+                "file": "journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "9f6fed8803aff791",
   "lastOpenFiles": [
+    "journal.md",
     "journal/2022-05-20.md",
     "journal/2022-02-21.md",
     "projects/projects/Photo Archives VIII.md",
@@ -97,7 +98,6 @@
     "notes/uxn.md",
     "reading/@tischbergerWIEWIRCODEN2021.md",
     "notes/Jachere Deployment and Publishing.md",
-    "projects.md",
-    "projects/index.md"
+    "projects.md"
   ]
 }
