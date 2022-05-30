@@ -4,13 +4,13 @@ author: Ulrike Felsing, Max Frischknecht, Adrian Demleitner
 date: 2022-05-07
 ---
 # Photo Archives VIII
-This was a talk I had the opportunity to co-write and hold at the [Photo Archives VIII](https://www.khi.fi.it/en/aktuelles/veranstaltungen/2022/05/photo-archives-viii.php) in May 2022. I only included my part of the presentation, as the text is not officially published yet.
+This was a talk I had the opportunity to co-write and hold at the [Photo Archives VIII](https://www.khi.fi.it/en/aktuelles/veranstaltungen/2022/05/photo-archives-viii.php) in May 2022.
 
 ## Inclusive and Participatory Interfaces for Photo Archives as New Research Opportunity
 
 ## Authors
 
-Ulrike Felsing, Max Frischknecht [[0000-0001-8043-1895](https://orcid.org/0000-0001-8043-1895)], Adrian Demleitner [[0000-0001-9918-7300](https://orcid.org/0000-0001-9918-7300)]
+Ulrike Felsing, Max Frischknecht [0000-0001-8043-1895](https://orcid.org/0000-0001-8043-1895), Adrian Demleitner [0000-0001-9918-7300](https://orcid.org/0000-0001-9918-7300)
 
 ## Keywords
 
@@ -32,6 +32,6 @@ Technologically, the interface operates on top of open-source practices such as 
 
 This proposal is produced as part of the interdisciplinary work on the SNSF research project "Participatory Knowledge Practices in Analogue and Digital Image Archives" (PIA) with the participation of the Seminar for Cultural Studies and European Ethnology (University of Basel), Institute of Design Research (Bern Academy of the Arts), Digital Humanities Lab (University of Basel) and Department of Mathematics and Computer Science (University of Basel). The project is collectively led by Walter Leimgruber (University of Basel), Peter Fornaro (University of Basel) and Ulrike Felsing (Bern Academy of the Arts).
 
-Full Presentation Paper: ![](files/Paper-Draft_V1.odt)
+- [Full presentation paper as preview, unpublished](files/Paper-Draft_V1.odt)
 
 ![](files/photoarchives.gif)

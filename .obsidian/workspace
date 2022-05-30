@@ -7,8 +7,12 @@
         "id": "bc47889a4676d8db",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "texts/Photo Archives VIII.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "texts/Photo Archives VIII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,8 @@
   },
   "active": "bc47889a4676d8db",
   "lastOpenFiles": [
+    "texts/Photo Archives VIII.md",
+    "texts.md",
     "projects.md",
     "projects/index.md",
     "files/c1f61c36e8f380a9.jpeg",
@@ -91,8 +98,6 @@
     "projects/ckster.md",
     "topics/Hacking.md",
     "topics.md",
-    "topics/Multispecies Discourse.md",
-    "topics/Entanglements.md",
-    "topics/Infrastructure.md"
+    "topics/Multispecies Discourse.md"
   ]
 }
