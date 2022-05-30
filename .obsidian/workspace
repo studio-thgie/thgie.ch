@@ -7,12 +7,8 @@
         "id": "bc47889a4676d8db",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "topics/Hacking.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topics/Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "bc47889a4676d8db",
   "lastOpenFiles": [
-    "topics/Hacking.md",
+    "projects.md",
+    "projects/index.md",
+    "files/c1f61c36e8f380a9.jpeg",
+    "files/a5afdb9a72f0fd68.jpeg",
     "projects/ckster.md",
+    "topics/Hacking.md",
     "topics.md",
     "topics/Multispecies Discourse.md",
     "topics/Entanglements.md",
-    "topics/Infrastructure.md",
-    "topics/Research.md",
-    "topics/Animism.md",
-    "topics/Alienation.md",
-    "topics/Politics of coding.md"
+    "topics/Infrastructure.md"
   ]
 }
