@@ -1,8 +1,11 @@
 ---
 title: Photo Archives VIII
-date: 2022
+author: Ulrike Felsing, Max Frischknecht, Adrian Demleitner
+date: 2022-05-07
 ---
 # Photo Archives VIII
+This was a talk I had the opportunity to co-write and hold at the [Photo Archives VIII](https://www.khi.fi.it/en/aktuelles/veranstaltungen/2022/05/photo-archives-viii.php) in May 2022. I only included my part of the presentation, as the text is not officially published yet.
+
 ## Inclusive and Participatory Interfaces for Photo Archives as New Research Opportunity
 
 ## Authors

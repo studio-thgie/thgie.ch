@@ -2,6 +2,7 @@
 title: Texts
 ---
 # Texts
+- [Inclusive and Participatory Interfaces for Photo Archives as New Research Opportunity](texts/Photo%20Archives%20VIII.md), a talk I had the opportunity to co-write and hold at the Photo Archives VIII in May 2022.
 - [Between working repositories and cold-storage long-term archives](texts/Between%20working%20repositories%20and%20cold-storage%20long-term%20archives.md), essay on Githubs Arctic Vault Program for seminar *Das Internet als Infrastruktur* 2022
 - [Häuser besetzen, Strassen bestickern](texts/Häuser%20besetzen,%20Strassen%20bestickern.md), essay on stickers, community and politics in German 2021
 - [things are people too](texts/things%20are%20people%20too.md), talk on electronics and animism at reclaim futures 2021
