@@ -2,5 +2,7 @@
   "obsidian-citation-plugin",
   "obsidian-tidy-footnotes",
   "obsidian-footnotes",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-hider",
+  "obsidian-minimal-settings"
 ]

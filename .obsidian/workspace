@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "texts/Photo Archives VIII.md",
+            "file": "journal/2022-06-17.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70fd0428f89fdffe",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "texts/Photo Archives VIII.md",
+                "file": "journal/2022-06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "bc47889a4676d8db",
   "lastOpenFiles": [
+    "journal/2022-06-17.md",
+    "journal/2022-05-20.md",
+    "texts/From methods to practice.md",
     "texts/Photo Archives VIII.md",
     "texts.md",
     "projects.md",
     "projects/index.md",
     "files/c1f61c36e8f380a9.jpeg",
     "files/a5afdb9a72f0fd68.jpeg",
-    "projects/ckster.md",
-    "topics/Hacking.md",
-    "topics.md",
-    "topics/Multispecies Discourse.md"
+    "projects/ckster.md"
   ]
 }
