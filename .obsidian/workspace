@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-06-17.md",
+            "file": "journal.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-06-17.md",
+                "file": "journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "bc47889a4676d8db",
   "lastOpenFiles": [
+    "journal.md",
     "journal/2022-06-17.md",
     "journal/2022-05-20.md",
     "texts/From methods to practice.md",
@@ -98,7 +99,6 @@
     "projects.md",
     "projects/index.md",
     "files/c1f61c36e8f380a9.jpeg",
-    "files/a5afdb9a72f0fd68.jpeg",
-    "projects/ckster.md"
+    "files/a5afdb9a72f0fd68.jpeg"
   ]
 }
