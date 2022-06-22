@@ -1,0 +1,95 @@
+# Colloquium III - Outline
+- Intro
+	- Changes in research approach and focus
+	- Research Plan
+- Changes
+	- want to address the changes since c2, especially the transformation of the underlying research approach
+	- until c2 i looked at electronics from an ecological perspective, intending to change the way we relate, respect and care for such devices
+	- rooted in own experience and work and driven by a desire to do better within my own professionality
+	- based on that i developed an interest in animism as a way of relating to things
+	- and after a moment or two i choose voice assistants as the object of study to test this approach upon
+	- until c2 the focus was very much within the context of entertainment and home automation where i also made most of my ethnographic research
+- The big question in the feedback was about the (social) relevance
+	- in terms of relevance of studying voice assistants and regarding the possible forms of engagements and output
+	- already before c2 i was playing with the thought of looking into therapeutic applications of voice assistants to address the social relevance part
+	- an idea i didn't pursue after having a talk with a person from the BFH Medical Informatics. he very much advise against such a thing. he said it's not a fun market to enter on your own right now
+	- i picked up the idea after c2 again but under the aspect of assistive devices
+	- this initiative was sparked partially by my engagement with ontological design as well as post-phenomenology 
+- next to a new round of literature review in terms of design and inclusion i also made a couple of additional Interviews with focus on how voiceassistants mediate our access to the world, especially for people with disabilities
+	- [folie] head of technical projects at the SBV
+	- [folie] an aquintance wo has partial tetraplegia after an accident and is dependent on voice-assistive technologies
+	- [folie] a former Superflux designer who has a very critical approach to voice assistants in his project 
+- out of this process I was able to reformulate the research approach and focus and i'm very happy with it like this
+- Research plan
+	- sketch for the research proposal, with points taken from the snf guide
+	- 2.1 Current state of research in the research area
+		- [slide] ven diagram intersection
+		- Human-computer interaction studies
+			- User-Experience und -Interaction Design
+			- Conversation Design
+		- Disability studies und inclusive design
+			- Ontological design
+		-  which previous findings are the starting point and basis for the planned investigations
+	- good amount of research, often with an empiric approach and rooted in medical technology and information technology
+	- would love to make the link to a more design based approach
+		- next to the discourse in design justice which needs to be considered there is also a discourse specifically on design and disability, ie
+		- Inklusion als Entwurf, Tom Bieling
+		- goes hand in hand with the theoretical approach that I'm suggesting
+		- [zusammenfassung buch abstrakt]
+		- what important, relevant research is currently underway in Switzerland and abroad
+			-  VA-People, Experiences, Practices, Routines (VA-PEPR)
+			-  [zusammenfassung abstrakt]
+			-  Use of voice assistants with voice-activated and voice-enabled devices in healthcare
+			-  [zusammenfassung abstrakt]
+		- where and why is there a need for research
+			- gap inbetween medical tech and it and UX understood as the design of grafical UIs
+			- Meanwhile, I am much more interested in the ontological dimension of voice assistants as assitive devices.
+			-  [slide] ven diagram gap
+	- 2.2 Status of own research
+- my research shows that manufacturers have a limited view on user experience and that an expension of ontological design can be helpful. i base this hypothesis on my ethnographic research with vas within the context of entertainment
+- Reference of a position; ontological design, post-phenomenology
+- worked out a process of deep reading user experience that can be analysed within a postphenomenological approach regarding design questions
+- additional to the design perspective i have a quite extensive knowledge and skill in terms of the underlying technologies which is a very valuable assets and brings with it a unique perspective
+	- 2.3 Objectives, data and methods
+		- 2.3.1 Forschungsfrage
+			- How must voice assistants and the interaction with them be designed so that these technologies become a disability-first interface for people with visual or mobility impairments?
+			- How must voice assistants be designed so that people with disabilities can actively shape their lives with their help? 
+		- 2.3.2 Hypotheses and assumptions
+- Voice assistant technologies up to date are primarily a workaround to make lifeworlds, content or processes designed for able-bodied and neuro typical people accessible to people with disabilities.
+- my hypothesis then is, that VAs have what they need to be a first-class interface for people with disabilities
+- I bespoke such a hypothesis with the head of tech projects at the SBV and he agreed with me from a position of personal experience and professionall expertise
+		- 2.3.4 Concrete objectives
+- In addition to the scientific analysis and publication, the materialised output should be a digital guide for designing voice assistants or functionalities for people with disabilities. 
+- low-threshold access guide for interested parties, especially for designers and institutions that are active in this field
+- the guide will include tutorials and technological fragments, like code examples and blueprints and be published under an opensource license
+- as such, the guide can be built upon in practice as well as in further research projects
+	- 2.4 Timetable and milestones
+		- Phase 1 - Literature study; 6 months
+		- Phase 2 - Qualitative evaluation and needs analysis; 6 months
+		- Phase 3 - Workshop series / focus group / prototyping; 12 months
+		- Phase 4 - Evaluation and finalisation; 6 months
+		- Phase 5 - Publication; 6 months
+		- I'm not quite sure about the length of the first two phases, but i guess we can talk about that in q&a
+	- 2.5 Relevance of the research work
+- Scientific relevance
+	- focus on essential knowledge for design discourse on disabilities as well as human computer interaction
+	- adding depth to the discourse on user-experience design
+- Social relevace
+	- focus on essential knowledge on the design and development of assistive voice assistants which can be used in political or activist projects as well design studios
+	- representational character for disability discourses in design and human-computer interaction
+	- curb effect
+- Budget and Funding Possibilities
+- budget as suggested according to doc.ch, but as I don't think i'll be funded through that scheme, given my age and unacademic career, I also thought about alternatives
+- Alternative PhD Programms: Make Sense PhD Program (https://makesensephd.ch/#/project?id=8)
+- Get fragments of the projects funded or supported
+	- through tech-Partners: SBV, caru-care
+	- call for projects or maybe even a residency
+		- https://frh-fondation.ch/de/innovation-booster/
+		- https://www.janvaneyck.nl/
+- Q&A
+- current situation; 60% - 70%
+- could you give me any recommendation in terms of pre-study formats and fundings or other ways of furthering this project
+- what kind of funding formats for the whole enterprise or parts of it could you recommend besides the provided, residencies, php programs, partial project funding
+- applied methodology, since I missed a large part of the design research course, I sometimes have the feeling that I'm missing something here, but not exactly what. Could you tell me if you think it's feasable or can you give me few hooks that I definitly shoudl follow up until the thesis?
+- machen 3 jahre sinn oder soll ich besser auf 4 ausweiten
+- do you have the feeling that the part on participatory workshops need to be fleshed out a bit more?
