@@ -23,3 +23,7 @@ Only about 10% of the surface of earth is soil. Soil is more or less made out of
 - Soil texture is defined by clay, silt and sand. These three categories indicate particle size but not what element the particles are made of. A good soil should be a more or less equal mix of the three categories. They are important because they have different surface areas and can hold water and air in different ways.
 
 Exercise: take the top 30 cm of soil mix them with 2 cups of water and a tablespoon of water softer noon. Shake vigourously, and wait for 24 hours until the particles settled in their respective layers.
+
+- Cation exchange capacity: particles in the soil can have negative charges that attract positive loaded ions. These are often things that plants need for food. These exchange their own negatively charged hydrogen ions with what they need for growth. In turn creating a more acidic milieu by lowering the pH. The CEC is the possible amount of exchange of positive ions. Silt and clay has a higher CEC. 
+
+## Microbes
