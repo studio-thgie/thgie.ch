@@ -2,6 +2,7 @@
 title: Journal
 ---
 # Journal
+- [05. July 2022 - On COMPOSTs, soil and gardening](journal/2022-07-05.md)
 - [17. June 2022 - Post DHCH and towards easier days](journal/2022-06-17.md)
 - [20. May 2022 - May, when summer arrives](journal/2022-05-20.md)
 - [09. Apr 2022 - computing with limits](journal/2022-04-09.md) 
