@@ -27,3 +27,9 @@ Exercise: take the top 30 cm of soil mix them with 2 cups of water and a tablesp
 - Cation exchange capacity: particles in the soil can have negative charges that attract positive loaded ions. These are often things that plants need for food. These exchange their own negatively charged hydrogen ions with what they need for growth. In turn creating a more acidic milieu by lowering the pH. The CEC is the possible amount of exchange of positive ions. Silt and clay has a higher CEC. 
 
 ## Microbes
+- There is an enormous amount of bacteria in the soil
+- They produce a variety of enzymes to break down fresh organic material in order to access their sugars proteins carbons and ions. Bacteria's are amongst the primary decomposers but they do not decompose harder stuff like cellulose. de leave that to fungi. 
+- There are two different main groups of materials those that need air and those who don't. The first one is called anaerobic bacteria and the second one is called aerobic bacteria
+- Materials are super important in a process called element cycling. That is a process in which carbon, sulphur nitrogen are broken up, made accessible to the plants, consumed by thise and given back to the soil. 
+- Another important function of materials is, as mentioned before, the production of biofilms which gives structure to soil
+- And last but not least bacteria's are involved in a process called nutrient retention in which they bind nutrients in the soil and especially close to the plants roots.
