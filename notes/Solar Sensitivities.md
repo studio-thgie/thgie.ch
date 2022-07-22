@@ -1,5 +1,10 @@
 ---
 title: Solar Sensitivities
+authors: Adrian Demleitner
+tags:
+	- solar
+	- solarpunk
+	- permacomputing
 ---
 # Solar Sensitivities [^1]
 This is the base note for a new line of inquiry that grew out of a reflection on what to do with my own practice in these times of crisis. I'm very much invested into technology, especially digital ones. The last 10 to 50 years have shown, that our collective imagination of technology does a lot of harm to the planet, to flora and fauna, and to ourselves. Harm that would not be necessary and which by far outweights the good. Solar Sensitivities then is an attempt to bring my own practice into accordance with my values.
@@ -29,12 +34,21 @@ I do need to learn how to set up the panel now, and if I miss anything… Oook I
 
 - an MPPT should not be setup without a battery hooked up to it. That could damage the MPPT. So I had to order a battery as well
 - The cables that came out of the solar panel are the MC4 type. I did order proper cables into the MPPT, but they lack the MC4 adapters on the other end, so I had to order that as well.
+### Update 2022-05-17
+The setup works! 
 
-## Foundation
-- [How to Build a Low-tech Website?](reading/@HowBuildLowtech2018.md)
+![An electronic setup with a solar panel, a car battery, a little device called MPPT that regulates the power coming from the solar panel and a raspberry pi. All four are connected with red and black cables. The display of the MPPT shows 13V and the raspberry pi has a red LED lit up.](files/A2E6A83D-48AC-4C50-9792-7B5CC4762E7C.jpeg)
+
+The solar panel charges the car battery and that one in turn powers the raspberry pi server.  The battery is to small to power the server through the night. I was a bit too cheap on that end. I'll have to test if I can have the system charge a second battery, that I'm having laying around, that powers the server then. Otherwise I need to upgrade the car battery. But those I should be able to find used. 
+
+### Update 2022-07-10
+I figured no good place in my home to attach the solarpanel in a good spot. But I might be able to put the whole system (panel, batteries, and server) in the community garden, where we have an allotment. I asked my contact and he said, they'll discuss it. Here are my sketches to explain what I intend to do. 
+
+![](files/image%201.jpg)
 
 ## Inspiration and entanglements
-- [Solar Protocol](http://solarprotocol.net/[**[]()**]())
+- [How to Build a Low-tech Website?](reading/@HowBuildLowtech2018.md)
+- [Solar Protocol](http://solarprotocol.net/)
 - [uxn](https://compudanzas.net/uxn_tutorial.html)
 - [LIMITS conference](https://computingwithinlimits.org/2022/)
 - [100r](http://100r.co/site/home.html)

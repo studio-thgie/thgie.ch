@@ -5,4 +5,4 @@ I have the feeling, that this approach is often not considered in participative 
 
 They're not able to see the inherent power-dynamics of the structures from which they start theirs inquiries. And are probably even less able to reflect them properly without jeapordizing their own projects. 
 
-![](9DAA6014-122A-4C20-B4EB-0789ACE5E73B.png)
+![](files/9DAA6014-122A-4C20-B4EB-0789ACE5E73B.png)

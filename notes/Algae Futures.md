@@ -11,7 +11,7 @@ Since a while I'm interested in the idea of farming algae at home. I think the s
 
 ## Related
 - on are.an: [Algae Futures](https://www.are.na/adrian-demleitner/algae-futures-eaobmahvrbu)
-- [[Multi-species ]]
+- [[Multi-species]]
 - [Radical Animism and Design](notes/Radical%20Animism%20and%20Design.md)
 
 ## Footnotes

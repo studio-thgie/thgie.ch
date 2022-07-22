@@ -9,4 +9,4 @@ title: Techno-Animism
 "In other words, the shift from everyday object to sacred object is marked by a transformation of the object into event." in how far does a commodity fetish become an event and devoid of usefulness?
 
 ## Related
-- [[topics/Animism]]
+- [Animism](topics/Animism.md)

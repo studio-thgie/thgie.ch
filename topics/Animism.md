@@ -6,7 +6,7 @@ Unter Animismus, wie ich den Begriff brauche, verstehe ich nicht eine anthropolo
 
 ## Types of animism
 - Indigenous; Things having sould or spirit
-- Machinic; ?
+- Machinic;
 - Marenko; Agency, Embodiement, Ecology, Uncertainity
 - Physical animated; Things move by themselves
 - Philosophical; New Materialism
