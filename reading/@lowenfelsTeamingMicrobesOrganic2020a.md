@@ -33,3 +33,16 @@ Exercise: take the top 30 cm of soil mix them with 2 cups of water and a tablesp
 - Materials are super important in a process called element cycling. That is a process in which carbon, sulphur nitrogen are broken up, made accessible to the plants, consumed by thise and given back to the soil. 
 - Another important function of materials is, as mentioned before, the production of biofilms which gives structure to soil
 - And last but not least bacteria's are involved in a process called nutrient retention in which they bind nutrients in the soil and especially close to the plants roots.
+
+## Archaea
+They were thought to be bacteria but are actually not. Archaea are what we usually know as extremophiles. Other than that, they're doing mostly the same things and carry the same importance to gardeners them soil bacteria. 
+
+## Fungi
+Fungi also do mostly the same things as bacteria in the soil. The feed, break up nutrients and immobilise them in the soil. There are two main things that set them apart from bacteria.
+
+The first is that they can kind of build their own transport infrastructure and move much farther to find and collect the nutrients than bacteria. The second thing is that they can go into  symbiosis with plants by growing close to the roots or inside of the roots, or even inside of the plans themselves. Both partners, the plants and fungi, profit from such an arrangement as they exchange nutrients that they would not get otherwise.
+
+Of course there are also fungi which bring diseases or even death to plants which is why  gardeners are often not too fond of mushrooms.
+
+## Algae and Slime Molds
+both are present in the garden but play a minor role in the soul food web. 

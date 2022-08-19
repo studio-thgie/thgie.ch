@@ -6,6 +6,9 @@ title: Humus
 
 I personally love the term *Muttererde*, which is rather difficult to translate directly. It means *soil which acts as mother*.
 
+## Related
+- [Teaming with microbes](reading/@lowenfelsTeamingMicrobesOrganic2020a.md)
+
 ## Sources
 - https://en.wikipedia.org/wiki/Humus
 - https://www.humuseconomicus.se

@@ -44,7 +44,10 @@ The solar panel charges the car battery and that one in turn powers the raspberr
 ### Update 2022-07-10
 I figured no good place in my home to attach the solarpanel in a good spot. But I might be able to put the whole system (panel, batteries, and server) in the community garden, where we have an allotment. I asked my contact and he said, they'll discuss it. Here are my sketches to explain what I intend to do. 
 
-![](files/image%201.jpg)
+![](agenda/files/image%201%201.jpg)
+
+### Update 2022-08-08
+I actually had a raspberry pi zero laying around! The little thing is more then enough to serve static files. I even have a little php-based application running on it next to my two static sites [thgie.ch](thgie.ch) and [jache.re](jache.re). The rather small 6000AH battery lasts for three days more or less. I still weren't able to figure out where and how the solar panel will be placed.
 
 ## Inspiration and entanglements
 - [How to Build a Low-tech Website?](reading/@HowBuildLowtech2018.md)

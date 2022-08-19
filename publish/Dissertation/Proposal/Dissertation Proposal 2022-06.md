@@ -15,17 +15,17 @@
 - Abstrakt
 - Ausgangslage
 	- The digital enabling new forms of archival practices as well as partizipation 
-	- Erforschung von Community-led archives als Lücke (?)
+	- ~~Erforschung von Community-led archives als Lücke~~ (?)
+	- Erfoschrung von partizipativen Prozessen in communal geführten Archiven
 - Erkenntnisgewinn
 	- Imaginaries, Partizipative Praxis, Technicalities
 	- Spannend für Kommunikation, Modellierung, Best-Practice Guide, Wirtschaftlichkeit
-	- wie können standards und apis community-led archive an der welt teilhaben / lassen
+	- Wie können standards und apis community-led archive an der welt teilhaben / lassen
 - Ganzheitliche Erfassung von Archiven als sozio-technologische Gebilde
-	- Transversale Metadatenströme als Linse um alle human und non-human Aktanden zu erfassen
+	- [Transversale Metadatenströme](notes/Transversal%20Dataflow.md) als Linse um alle human und non-human Aktanden zu erfassen
 	- infrastruktureller Ansatz
 
 ## Challenges
-
 
 ## Abstract
 The infrastructure of an archive manifests its participatory ontology and shapes the possible space for epistemological practices. This research proposal wants to look at the development of a digital image archive from an infrastructural point of view and inquire how design decisions and technical implementations on that level influence its participatory character. The specific focus of this work is the inquiry into the imaginaries and models of communal managed data, which is regarded as the core materiality of a digital archive.
@@ -50,3 +50,5 @@ The Projects central research questions would then be as follows.
 
 - What are communal and participative models and imaginaries of constituting and caring for data within a digital image archive?
 - How does the data infrastructure need to be designed and built to support such communal and participative models?
+
+https://miro.com/app/board/uXjVOqWQOz8=/?share_link_id=937730762501
