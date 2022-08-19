@@ -2,6 +2,7 @@
 title: Journal
 ---
 # Journal
+- [19. August 2022 - My reseach and writing workflow](journal/2022-08-19.md)
 - [16. July 2022 - It matters what code we write code with](journal/2022-07-16.md)
 - [05. July 2022 - On COMPOSTs, soil and gardening](journal/2022-07-05.md)
 - [17. June 2022 - Post DHCH and towards easier days](journal/2022-06-17.md)
