@@ -1,9 +1,7 @@
 # Games
 There are of course more games, then mirrored by these lists. But that was ages ago and doesn't make much sense to list here right now. I'll try something from my memory one day :)
 
-Hello World, how are you today?
 ## …I played
-
 | Title                          | ⭐️                              | 🏁  | ❓  | 🧭          |
 | ------------------------------ | -------------------------------- | --- | --- | ----------- |
 | Donut County                   | Good                             | ✅  |     |             |
@@ -35,6 +33,7 @@ Hello World, how are you today?
 | Cloud Gardens                  |                                  | ❌  |     | 7 - 23      |
 | Baba is you                    |                                  | ❌  | Yes | 7 - 46      |
 | Wide Ocean Big Jacket          | Funny, heartwarming and innocent | ✅  |     | 1 - 1.5     |
+
 ## …I want to play one day
 | Title                     | ⭐️                | 🧭      |
 | ------------------------- | ------------------ | ------- |
