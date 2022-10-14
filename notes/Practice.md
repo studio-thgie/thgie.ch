@@ -1,1 +1,0 @@
-> I see a difference between one’s own practice and subjects of interest. The subjects, the topics are worked on or explored through the practice. 
