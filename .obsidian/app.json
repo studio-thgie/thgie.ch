@@ -27,5 +27,6 @@
   "spellcheckDictionary": [
     "`--csl",
     "Geiser"
-  ]
+  ],
+  "showUnsupportedFiles": true
 }

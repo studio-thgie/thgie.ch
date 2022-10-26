@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-08-19.md",
+            "file": "journal/2022-07-05.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-08-19.md",
+                "file": "journal/2022-07-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "640c1db42839cf13",
   "lastOpenFiles": [
+    "journal/2022-07-16.md",
+    "journal/2022-08-19.md",
     "pages/texts-and-talks.md",
     "texts-and-talks/Smart Curation - Algorithmic Phenomenology.md",
     "texts-and-talks/Meditations on Artificial Intelligence.md",
@@ -104,8 +106,6 @@
     "texts-and-talks/things are people too.md",
     "texts-and-talks/Liturgy for Electronic Waste.md",
     "texts-and-talks/From methods to practice.md",
-    "index.md",
-    "texts-and-talks/Cyborgs and the Humanities.md",
-    "texts-and-talks/Inclusive and Participatory Interfaces for Photo Archives as New Research Opportunity.md"
+    "index.md"
   ]
 }
