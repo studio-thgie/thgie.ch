@@ -4,7 +4,7 @@ I studied industrial design at [Hyperwerk](https://www.hypermagazine.ch/) and ju
 
 My last few working positions involved being a scientific software programmer in a research project on participatory image archives at the [University of Basel](https://dbis.dmi.unibas.ch/research/projects/pia/) and enjoying a position as junior researcher at the [Institute of Experimental Design and Media Cultures](https://www.ixdm.ch) in a project on [electronic waste](https://times-of-waste.ch/en/). I hold quite a few shorter and longer positions as frontend, fullstack or lead webdeveloper over the last 20 years.
 
--   social: [twitter](https://twitter.com/_thgie), [mastodon](https://post.lurk.org/@thgie)
+-   social: [twitter](https://twitter.com/_thgie), <a href="https://post.lurk.org/@thgie" rel="me">mastodon</a>
 -   code: [codeberg](https://codeberg.org/thgie), [github (boycotting)](https://github.com/thgie)
 -   contact: [adrian@thgie.ch](mailto:adrian@thgie.ch), [+41766811337](tel:0041766811337)
 -   academic: [orcid](https://orcid.org/0000-0001-9918-7300), [researchgate](https://www.researchgate.net/profile/Adrian-Demleitner)
