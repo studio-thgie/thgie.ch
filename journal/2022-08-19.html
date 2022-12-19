@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="/"/>
+    <title>19. August 2022 - My research and writing workflow</title>
+
+    <meta name="generator" content="pandoc" />
+        <meta name="author" content="Adrian Demleitner" />
+            <meta name="date" content="2022-08-19" />
+    
+    <link rel="stylesheet" href="/files/template/archive.css">
+
+</head>
+<body>
+
+    <nav role="navigation">
+        <a target="_self" href="/">/</a>
+        
+        <ul class="nav-h">
+            <li><a target="_self" href="pages/journal.html">Journal</a></li>
+            <li><a target="_self" href="pages/texts-and-talks.html">Texts and Talks</a></li>
+        </ul>
+
+    </nav>
+
+    <main role="main">
+        <h1 id="my-research-and-writing-workflow">My research and writing workflow</h1>
+        <p><em>This is a work in progress and might be heavily expanded upon in the near or far future.</em></p>
+        <p>I’m pretty happy with my research and writing setup and I always recommend people to do this or that. So for once, I try to write-up my current workflow and the tools involved. There is only simple rule in place, that pretty much defines what tools I’m using: Own your data!</p>
+        <p>Data that you are producing needs to be valued as work in the current capitalist environment. So if you didn’t get paid for it, you still (have to) own it. It also makes it easier to shift tools and setups if you own your data. Owning data means being freely able to read, move and copy, transform, or delete it.</p>
+        <p>OK, on to an overview of my tools and their basic functions. The basic functions also outline the general workflow.</p>
+        <h2 id="tool-and-workflow-outline">Tool and workflow outline</h2>
+        <ul>
+        <li><strong>Collecting</strong>
+        <ul>
+        <li>Firefox - Browsing</li>
+        <li>Zotero - Bookmarks, references, PDFs</li>
+        <li>are.na - Images</li>
+        </ul></li>
+        <li><strong>Curating</strong>
+        <ul>
+        <li>Zotero - Collections, tags</li>
+        <li>are.na - Collections, relations</li>
+        </ul></li>
+        <li><strong>Consuming</strong>
+        <ul>
+        <li>Zotero - Annotations and highlights in PDFs</li>
+        <li>hypothes.is - Annotations and highlights in websites</li>
+        </ul></li>
+        <li><strong>Producing</strong>
+        <ul>
+        <li>Obsidian - Writing</li>
+        <li>Zotero - Providing references</li>
+        </ul></li>
+        <li><strong>Publishing</strong>
+        <ul>
+        <li>Obsidian</li>
+        <li>pandoc - From Obsidian to documents</li>
+        <li>pancake.sh - From Obsidian to websites</li>
+        </ul></li>
+        </ul>
+        <p>In research, you always collect, curate, and consume material such as scientific papers, other textual material, images and videos etc. Guided by your inquiry, research question or project, you produce something new out of the collected and worked on material and your own thoughts. In the last stage, you want to hand your new thing over to other people.</p>
+        <p>The two main tools in my setup are Obsidian and Zotero. Both are free, but only Zotero is open-source. Both offer paid services that you generally don’t need, except if you want to make your life easier or become a power user. Obsidian’s raw material are markdown files, which are basically glorified plain text files that you have on your own computer. Zotero works with a database hosted somewhere else, but has superior export abilities. are.na is an image-collection service as a platform. You can use something else here, I just happen to like are.na a lot. hypothes.is is also a service, but free and the platform’s code is open-source and has a vibrant community, as well as some great export functionalities. pandoc is open-source and a bit nerdy, and just transforms documents. So, all in all, most of these tools meet my initial criteria of enabling you to own your data.</p>
+        <p>Let us go over the setups of each tool and then some further setup specialities to glue everything together.</p>
+        <h2 id="firefox">Firefox</h2>
+        <p>With Firefox, you’ll surf the web and visit websites, platforms with scientific papers, podcasts and video-sites and what not. You can, of course, use any other browser, but why would you do?</p>
+        <ul>
+        <li>Open an account at <a href="https://web.hypothes.is/">hypothes.is</a>. Then install the <a href="https://web.hypothes.is/help/installing-the-bookmarklet/">hypothesis bookmarklet</a>. This lets you annotate websites.</li>
+        <li>Install the <a href="https://www.zotero.org/download/">Zotero Connector</a> for Firefox. This enables you to safe all kinds of material from the web, from websites, to papers, to videos as a reference in Zotero. I said reference, but we’ll talk about that later.</li>
+        </ul>
+        <p><strong>Zotero</strong> Documentation: https://www.zotero.org/support/</p>
+        <p>In Zotero you collect references to things you want to keep, read, work through, cite in your texts, etc. The references can either just point to another place, like a bookmark, but they can also contain attachments. These attachments are usually either a locally saved snapshot of a website, in case it ever goes offline, but you still need the content, or in most cases, a PDF of the text you want to read.</p>
+        <p>When you do academic writing, it is best practice to reference your sources that you built upon. As is typical with an academic process, this can be tedious and painful. Zotero tries to take the pain out of it. You can have a folder with all your sources, for example, and with a few clicks have a proper formatted list of sources that you can paste into your document.</p>
+        <ul>
+        <li>Have the Firefox Zotero Connector extension installed.</li>
+        <li>Install the <a href="http://zotfile.com/">ZotFile</a> plugin installed. It’s helps to work with the PDF files in such basic things as automatic renaming, so all your files have the same naming convention (yes, that is important, you don’t want to have a mess, do you?).</li>
+        <li>Also install the <a href="https://retorque.re/zotero-better-bibtex/">Better BibTeX</a> plugin. This thingy enables Zotero to produce proper citation keys and make wonderful exports of your collections. That will be important later.</li>
+        </ul>
+        <p>Zotero is also a wonderful tool to read and annotate PDFs. Have a look at the <a href="https://www.zotero.org/support/pdf_reader">PDF Reader and Note Editor</a> guide. It syncs with mobile, so you could also read on your phone or tablet.</p>
+        <h2 id="obsidian">Obsidian</h2>
+        <p>Documentation: https://help.obsidian.html/Obsidian/Index</p>
+        <p>This is where the magic happens. Alternatively, you could have a look at <a href="https://www.zettlr.com/">Zettlr</a>. Compared to Obsidian, it is completely open-source, and the developer is super sympathetic. But it’s too sluggish for me and the plugin ecosystem is practically non-existent, making it hard to extend. Obsidian is basically a text-editor with superpowers. One of the basic ideas is, that you can write in something and easily link to another file, over time building up a strong knowledge network.</p>
+        <p>I use the following plugins for writing:</p>
+        <ul>
+        <li><a href="https://github.com/hans/obsidian-citation-plugin">Citation</a>: Import and use references that you collected in Zotero as well as automatically import your reading notes from Zotero.</li>
+        <li><a href="https://github.com/weichenw/obsidian-hypothesis-plugin">Hypothes.is</a>: Import your annotations from hypothes.is</li>
+        <li><a href="https://github.com/OliverBalfour/obsidian-pandoc">pandoc</a>: This is a plugin that makes Obsidian able to talk to pandoc. Export your writings, including well formatted references, into documents of your choice including PDFs or Word files</li>
+        <li><a href="https://github.com/MichaBrugger/obsidian-footnotes">Footnotes</a>: Since footnotes in Markdown are a bit tedious to produce, this plugin comes handy, but it messes up a bit.</li>
+        <li><a href="https://github.com/charliecm/obsidian-tidy-footnotes">Tidy Footnotes</a>: Cleans the footnote mess…</li>
+        </ul>
+        <p>All these plugins are installable through the built-in plugin-manager. You see that the goal is actually to get as much material as possible into Obsidian. This is where you spent most of your productive time. Going over your notes and annotations, your resources, piecing them all together and at last, come up with your own material.</p>
+        <p>How exactly you work in Obsidian is up to you and a whole other rabbit whole I fell in several times…</p>
+        <h2 id="pandoc">pandoc</h2>
+        <p>Just install this one and forget about it. Installation guide can be found here: https://pandoc.org/installing.html.</p>
+        <h2 id="further-setup">Further setup</h2>
+        <p>The last step is to make Obsidian be able to talk to Zotero (for the references) and to pandoc (for the nice exports) because that’s the shitty part of academic writing.</p>
+        <p>First, you need to export a Zotero collection or your whole library (not recommended if you have many items).</p>
+        <ul>
+        <li>Right-click the collection you want to export and chose <strong>Export Collection…</strong></li>
+        </ul>
+        <p><img src="files/Screenshot%202022-08-19%20at%2020.28.33.png" /></p>
+        <p>The settings you should have ticked are:</p>
+        <ul>
+        <li>Export Notes (enables you to import your notes and annotation into Obsidian)</li>
+        <li>Use Journal Abbreviation (can’t remember why, just do it)</li>
+        <li>Keep updates (when you add another source to that collection in Zotero it will automatically make a new export)</li>
+        </ul>
+        <p>Remember where you’ve saved that export! You’ll need it in Obsidian. Go to the plugin-setting of the <strong>Citations</strong> plugin and adjust them.</p>
+        <p><img src="files/Screenshot%202022-08-19%20at%2020.29.15.png" /></p>
+        <p>Use the path to the Zotero BibTeX export file and put it into <em>Citation database path</em>. You’re free in using whatever you want for <em>Literature note folder</em>. That is just the place where the notes end up that you import from Zotero.</p>
+        <p>As a last step, go into the <strong>pandoc</strong> plugin settings and put the following preferences:</p>
+        <p><img src="files/Screenshot%202022-08-19%20at%2020.31.41.png" /></p>
+        <ul>
+        <li>Export files from HTML or markdown: <strong>Markdown</strong></li>
+        <li>Export folder: <strong>Whatever you want</strong>, I like mine in the same place all the time</li>
+        <li>Pandoc path: <strong>Use their guide in the little note to find this value</strong>, you can use mine (<code>/usr/local/bin/pandoc</code>) on macOS</li>
+        <li>Extra Pandoc arguments: <strong>This is important</strong></li>
+        </ul>
+        <div class="sourceCode" id="cb1"><pre class="sourceCode sh"><code class="sourceCode bash"><span id="cb1-1"><a href="journal/2022-08-19.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">--bibliography=/Users/adrian/path/to/Export.bib</span> <span class="at">--citeproc</span> <span class="at">--csl</span><span class="op">=</span>/Users/adrian/path/to/Citation-Style.csl</span></code></pre></div>
+        <p>If you don’t know what a citation style is yet, just leave out the <code>--csl=/Users/adrian/path/to/Citation-Style.csl</code> part. This little piece of information will let pandoc know, that you used references in your text, and tries to replace them accordingly during export.</p>
+        <h2 id="how-to">How to</h2>
+        <h3 id="use-references-in-obsidian">Use references in Obsidian</h3>
+        <ul>
+        <li>Create new file</li>
+        <li>Write text</li>
+        <li>Enter a reference with the command <code>Citations: Insert Markdown Citation</code>. A dropdown opens, with all the references that you added to your exported collection.</li>
+        <li>This will add something like <code>[@bennettVibrantMatterPolitical]</code> to your text. When you export your text, it will be replaced by <code>(Bennett, 2009)</code> and the proper citation reference will be added to the bottom of your file. Something like</li>
+        <li><code>Bennett, J. (2009). _Vibrant matter: A political ecology of things_. Duke University Press. [https://doi.org/10.1215/9780822391623](https://doi.org/10.1215/9780822391623)</code></li>
+        </ul>
+        <h3 id="import-notes-and-annotation">Import notes and annotation</h3>
+        <ul>
+        <li>From hypothes.is, just use the command <code>Hypothes.is: Sync Highlights</code>. That will sync all your notes and annotations that you’ve made online into your Obsidian files.</li>
+        <li>From Zotero, use the command <code>Citations: Open literature note</code>. Again, a dropdown opens, with all the references that you added to your exported collection. Chose one, and it will import that reference, alongside all your notes and annotations that you’ve made in Zotero. You might need to adjust the <em>Literature note content template</em> preference in the <strong>Citations</strong> plugin settings.</li>
+        </ul>
+        <p><img src="files/Screenshot%202022-08-19%20at%2020.41.36.png" /></p>
+        <pre><code>
+        ---
+        title: {{title}}
+        authors: {{authorString}}
+        year: {{year}}
+        ---
+
+        {{note}}</code></pre>
+        <h2 id="and-now">And now?</h2>
+        <p>It sounds like a lot, but you basically just do it once and then forget about it more or less. And it really really makes life easier. Or so I tend to believe.</p>
+    </main>
+
+    <footer class="text-sm">
+        <p class="flex">
+        </p>
+        <p>All content on <a href="https://thgie.ch">thgie.ch</a> is released and distributed under the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 license</a>.</p>
+    </footer>
+</body>
+</html>
