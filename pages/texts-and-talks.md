@@ -25,7 +25,7 @@ title: Texts and Talks
 
 <style>
 
-    colgroup col:first {
+    colgroup col:first-child {
         width: 10%;
     }
 
