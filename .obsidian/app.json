@@ -1,0 +1,32 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:attach-file",
+    "editor:cycle-list-checklist",
+    "quickadd:choice:b0f53f13-8d83-4a4e-86f5-76cc581f043c",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-source",
+    "editor:configure-toolbar",
+    "audio-recorder:start",
+    "audio-recorder:stop"
+  ],
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "files",
+  "spellcheckDictionary": [
+    "`--csl",
+    "Geiser"
+  ],
+  "showUnsupportedFiles": true
+}
