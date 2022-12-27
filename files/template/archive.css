@@ -143,11 +143,12 @@ main ol a {
     display: inline-block;
     z-index: 10;
     text-decoration: none;
+    margin: 0 17px;
 }
 main p a:hover,
 main ul a:hover,
 main ol a:hover {
-    color: #181818;
+    color: white;
 }
 main p a:before,
 main ul a:before,
@@ -155,24 +156,25 @@ main ol a:before {
     content: '';
     width: calc(100% + 30px);
     height: 100%;
-    border: 1px solid white;
+    border: 1px solid #181818;
     position: absolute;
     left: -15px;
-    top: 0;
+    top: -1px;
     border-radius: 20px;
     text-decoration: none;
     z-index: -1;
+    transition: .25s;
 }
 main p a:hover:before,
 main ul a:hover:before,
 main ol a:hover:before {
-    background: white;
+    background: #181818;
 }
 main a.footnote-ref:before {
     content: none !important;
 }
 main a.footnote-ref:hover {
-    color: white !important;
+    color: black !important;
     text-decoration: underline;
 }
 
@@ -202,6 +204,18 @@ blockquote p:before {
 }
 blockquote p:after {
     content: "”";
+}
+blockquote a {
+    color: white;
+}
+blockquote a:hover {
+    color: black !important;
+}
+blockquote a:before {
+    border-color: white !important;
+}
+blockquote a:hover:before {
+    background-color: white !important;
 }
 
 pre,
@@ -275,11 +289,11 @@ figure figcaption {
 
 /* styles */
 body {
-    color: white;
-    background: #333;
+    color: black;
+    background: rgba(239, 239, 239, 0.5);
 }
 a {
-    color: white;
+    color: black;
 }
 a.blogging-tag {
     font-size: 0.75rem;
@@ -328,8 +342,8 @@ ul.nav-h li a {
     position: relative;
     top: 0;
     display: inline-block;
-    background: white;
-    color: #181818;
+    background: black;
+    color: white;
     padding: 1px 15px;
     border-radius: 20px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.125);
@@ -337,7 +351,7 @@ ul.nav-h li a {
     text-decoration: none;
 }
 ul.nav-h a:hover {
-    color: #181818;
+    color: white;
     top: -2px;
     box-shadow: 0 12px 25px rgba(0, 0, 0, 0.075);
     text-decoration: none;
@@ -397,4 +411,12 @@ footer p.flex {
 }
 .footnotes .footnote-back:before {
     content: none;
+}
+
+/* table styles */
+th {
+    text-align: left;
+}
+td {
+    vertical-align: top;
 }

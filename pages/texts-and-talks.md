@@ -22,3 +22,11 @@ title: Texts and Talks
 | Jul 2018 | [Rotting Speculations](texts-and-talks/Rotting%20Speculations.md) |  |
 | Nov 2017 | [Meditations on Artificial Intelligence](texts-and-talks/Meditations%20on%20Artificial%20Intelligence.md) | [IAMAI. Bots and other Humanoids](https://www.duflon-racz.ch/bern/ausstellungen/2017/iamai) |
 | Sep 2017 | [Smart Curation - Algorithmic Phenomenology](texts-and-talks/Smart%20Curation%20-%20Algorithmic%20Phenomenology.md) |  |
+
+<style>
+
+    colgroup col:first {
+        width: 10%;
+    }
+
+</style>
