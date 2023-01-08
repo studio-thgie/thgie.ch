@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2023-01-08.md",
+                "file": "pages/journal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2023-01-08.md",
+                "file": "pages/journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +149,8 @@
   },
   "active": "c8a9d41ab27f9529",
   "lastOpenFiles": [
-    "pages/journal.md",
     "journal/2023-01-08.md",
+    "pages/journal.md",
     "journal/2022-08-19.md",
     "journal/2022-10-26.md",
     "index.md",
