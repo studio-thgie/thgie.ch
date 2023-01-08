@@ -1,0 +1,3 @@
+- [x] ich habe noch keine genau vorstellungen aber wenn die page und font grösse  schon mal so skalieren würde, dass es auf mobile sinn macht wäre gut. vielleicht liesse sich die liste dann auch einfach runterscrollen mit nachladen und nicht mit diesen old school 1, 2, 3 .. 623 pages. und world map könnte sich zb an den vertical screen anpassen usw. was meinst du?
+- [x] dieses statistik tab kann raus, das macht ja garnichts.
+- [x] und im submit prozess geht die preview nicht mehr, ein blick darauf wäre toll.
