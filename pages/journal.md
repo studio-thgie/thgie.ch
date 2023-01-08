@@ -3,11 +3,11 @@ title: Journal
 ---
 # Journal
 ## 2023
-- 08 January: [A new year's update](journal/2023-01-08.md)
+- 08 Jan: [A new year's update](journal/2023-01-08.md)
 
 ## 2022
-- 26 October: [From archival practices to game studies](journal/2022-10-26.md)
-- 19 August: [My reseach and writing workflow](journal/2022-08-19.md)
+- 26 Oct: [From archival practices to game studies](journal/2022-10-26.md)
+- 19 Aug: [My reseach and writing workflow](journal/2022-08-19.md)
 - 16 July: [It matters what code we write code with](journal/2022-07-16.md)
 - 05 July: [On COMPOSTs, soil and gardening](journal/2022-07-05.md)
 - 17 June: [Post DHCH and towards easier days](journal/2022-06-17.md)
