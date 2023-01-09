@@ -9,20 +9,21 @@ tags:
 *This is a work in progress and might be heavily expanded upon in the near or far future.*
 
 **Table of Content**
-- [Introduction](#Introduction)
-- [Overview: Tool and workflow outline](#Overview:%20Tool%20and%20workflow%20outline)
-- [Tools](#Tools)
-	- [Firefox](#Tools#Firefox)
-	- [Zotero](#Tools#Zotero)
-	- [Obsidian](#Tools#Obsidian)
-	- [pandoc](#Tools#pandoc)
-- [Import notes and annotation…](#Import%20notes%20and%20annotation…)
-	- […from Zotero](#Import%20notes%20and%20annotation…#…from%20Zotero)
-	- […from websites](#Import%20notes%20and%20annotation…#…from%20websites)
-- [Writing, thinking](#Writing,%20thinking)
-- [Exporting from Obsidian…](#Exporting%20from%20Obsidian…)
-	- […to documents](#Exporting%20from%20Obsidian…#…to%20documents)
-	- […to websites](#Exporting%20from%20Obsidian…#…to%20websites)
+
+- [Introduction](#introduction)
+- [Overview: Tool and workflow outline](#over-tool-and-workflow-outline)
+- [Tools](#tools)
+	- [Firefox](#firefox)
+	- [Zotero](#zotero)
+	- [Obsidian](#obsidian)
+	- [pandoc](#pandoc)
+- [Import notes and annotations…](#import-notes-and-annotations)
+	- […from Zotero](#from-zotero)
+	- […from websites](#from-websites)
+- [Writing, thinking](#writing-thinking)
+- [Exporting from Obsidian…](#exporting-from-obsidian)
+	- […to documents](#to-documents)
+	- […to websites](#to-websites)
 
 
 I'm pretty happy with my research and writing setup and I always recommend people to do this or that. So for once, I try to write-up my current workflow and the tools involved. There is only simple rule in place, that pretty much defines what tools I'm using: Own your data!
@@ -96,7 +97,7 @@ How exactly you work in Obsidian is up to you and a whole other rabbit whole I f
 ### pandoc
 Just install this one and forget about it. Installation guide can be found here: https://pandoc.org/installing.html.
 
-## Import notes and annotation…
+## Import notes and annotations…
 ### …from Zotero
 #todo
 
