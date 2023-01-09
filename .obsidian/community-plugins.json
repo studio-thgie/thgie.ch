@@ -8,5 +8,6 @@
   "obsidian-pandoc",
   "obsidian-languagetool-plugin",
   "obsidian-zotero-desktop-connector",
-  "oz-clear-unused-images"
+  "oz-clear-unused-images",
+  "obsidian-plugin-toc"
 ]

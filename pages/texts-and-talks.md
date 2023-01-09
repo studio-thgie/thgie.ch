@@ -1,5 +1,6 @@
 ---
 title: Texts and Talks
+author: Adrian Demleitner
 ---
 # Texts and Talks
 ## Things I wrote
