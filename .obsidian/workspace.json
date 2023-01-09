@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/notes.md",
+                "file": "now.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/notes.md",
+                "file": "now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,15 +162,15 @@
   },
   "active": "a8c4484ed88cbbee",
   "lastOpenFiles": [
+    "LICENSE.md",
+    "pages/notes.md",
     "journal/2022-08-19.md",
     "notes/research-workflow.md",
     "journal/2022-07-16.md",
     "journal/2022-10-26.md",
     "pages/texts-and-talks.md",
-    "pages/notes.md",
     "pages/journal.md",
     "journal/2023-01-08.md",
-    "journal/2022-07-05.md",
-    "journal/2022-06-17.md"
+    "journal/2022-07-05.md"
   ]
 }
