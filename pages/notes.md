@@ -3,4 +3,4 @@ title: Notes
 author: Adrian Demleitner
 ---
 # Notes
-- [Research and writing workflow](notes/research-workflow.md)
+- [Research and writing workflow](https://jache.re/notes/research-workflow.html)
