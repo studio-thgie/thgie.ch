@@ -1,14 +1,16 @@
+html {
+    scroll-behavior: smooth;
+}
+
 html, body {
-	font: 16px/1.6 'Arial';
+	font: 16px/1.6 'Trebuchet MS';
 }
 
 body {
-    font-family: 'IBM Plex Sans', sans-serif;
     font-weight: 400;
 }
 
 h1, h2, h3 {
-    font-family: 'Space Grotesk', sans-serif;
     font-weight: 700;
 }
 
