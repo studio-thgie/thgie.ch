@@ -25,13 +25,12 @@ SATURDAY     
 - 19:00  Dinner and evening program, Inputs
 
 SUNDAY         
-10:00-11:00    Workshop
-11:00-11:30    Coffee break
-11.30-13:00    Workshop
-13:00-14:00    Lunch
-14:00-16:00    Time for practice/hike
+- 10:00-11:00    Workshop
+- 11:00-11:30    Coffee break
+- 11.30-13:00    Workshop
+- 13:00-14:00    Lunch
+- 14:00-16:00    Time for practice/hike
 - 17:00          Official end
-
 
 ## 1/3 Vormittag Samstag
 - Introduction

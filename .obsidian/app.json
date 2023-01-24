@@ -26,7 +26,8 @@
   "attachmentFolderPath": "files",
   "spellcheckDictionary": [
     "`--csl",
-    "Geiser"
+    "Geiser",
+    "Midjourney"
   ],
   "showUnsupportedFiles": true
 }

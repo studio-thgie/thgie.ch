@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ad9a9981d59649d5",
+        "id": "d682a642ae06347b",
         "type": "tabs",
         "children": [
           {
-            "id": "c8a9d41ab27f9529",
+            "id": "c481daeffcf56525",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022-08-19.md",
+                "file": "pages/journal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a8c4484ed88cbbee",
+            "id": "c30149e53d3c8a64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "now.md",
+                "file": "journal/2023-01-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "now.md",
+                "file": "journal/2023-01-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,17 +160,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8c4484ed88cbbee",
+  "active": "c30149e53d3c8a64",
   "lastOpenFiles": [
-    "LICENSE.md",
-    "pages/notes.md",
-    "journal/2022-08-19.md",
-    "notes/research-workflow.md",
-    "journal/2022-07-16.md",
-    "journal/2022-10-26.md",
-    "pages/texts-and-talks.md",
     "pages/journal.md",
+    "journal/2023-01-24.md",
     "journal/2023-01-08.md",
-    "journal/2022-07-05.md"
+    "index.md",
+    "projects/media^alps 2023.md",
+    "journal/2022-08-19.md",
+    "projects/media^alps 2022.md",
+    "now.md",
+    "LICENSE.md",
+    "pages/notes.md"
   ]
 }
